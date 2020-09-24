@@ -1161,7 +1161,7 @@ h1, h2, h3, h4, h5,
   border-width: 2px !important; }
 
 .block__73694 .block__73422 {
-  background-size: cover;
+  background-size: contain;
   background-position: center center;
   background-repeat: no-repeat; }
   @media (max-width: 991.98px) {
